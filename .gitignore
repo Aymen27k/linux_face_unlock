@@ -206,10 +206,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-*.jpg
+
+# Snapshots
 snapshots/
+*.jpg
+*.png
+
+# dlib build artifacts
 dlib/
-
-*.jpg
-snapshots/
-
